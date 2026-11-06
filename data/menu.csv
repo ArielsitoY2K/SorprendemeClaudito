@@ -1,0 +1,44 @@
+﻿Sección,Tipo,Nombre,Descripción,Foto
+Semana,Con carne,Canelones con bolognesa,Canelones rellenos con salsa bolognesa casera.,canelones-bolognesa
+Semana,Con carne,Cerdo al horno con fideos,"Cerdo horneado a fuego lento, con fideos.",cerdo-horno
+Semana,Con carne,Supremas a la suiza con tortilla,Supremas gratinadas con jamón y queso y tortilla de papa.,suprema-suiza
+Semana,Con carne,Pollo al disco con arroz,"Pollo cocinado a fuego lento, con arroz.",pollo-disco
+Semana,Con carne,Medallones de merluza con verduras al horno,Medallones de merluza con verduras asadas.,merluza-horno
+Semana,Con carne,Menú Sorpréndeme,"Una comida sorpresa, elegida por nosotros.",menu-sorpresa
+Semana,Vegetariana,Torre de vegetales,Capas de vegetales grillados con salsa de tomate.,torre-vegetales
+Semana,Vegetariana,Canastitas caprese,"Masa crocante con tomate, mozzarella y albahaca.",canastitas-caprese
+Semana,Vegetariana,Hamburguesas de garbanzos,Hamburguesas caseras de garbanzos con especias.,hamburguesa-garbanzos
+Semana,Vegetariana,Canelones de verdura con salsa,Canelones de verdura con salsa de tomate casera.,canelones-verdura
+Semana,Vegetariana,Milanesa de vegetales a la pizza,"Milanesa de vegetales con salsa, jamón y queso.",mila-vegetales-pizza
+Semana,Vegetariana,Menú Sorpréndeme vegetariano,"Una comida vegetariana sorpresa, elegida por nosotros.",viandas-muchas
+Clásicos,Con carne,Milanesa de carne,,milanesa-de-carne
+Clásicos,Con carne,Ravioles con carne,,ravioles-carne
+Clásicos,Con carne,Costeletitas de cerdo,Costeletitas de cerdo doradas.,costeletitas
+Clásicos,Con carne,Pollo al horno,"Pollo dorado al horno, bien jugoso.",pollo-horno
+Clásicos,Con carne,Supremas,Supremas de pollo tiernas y jugosas.,supremas-pollo
+Clásicos,Con carne,Costeleta de carne,,
+Clásicos,Con carne,Hamburguesa de pollo,,
+Clásicos,Con carne,Omelette de jamón y queso,El omelette clásico de jamón y queso.,omelette
+Clásicos,Con carne,Hamburguesas caseras,,
+Clásicos,Vegetariana,Milanesa de berenjenas,"Milanesas de berenjena, receta de siempre.",mila-berenjena
+Clásicos,Vegetariana,Milanesa de zapallitos,,
+Clásicos,Vegetariana,Milanesa de calabacín,,
+Clásicos,Vegetariana,Ravioles con salsa,,ravioles-salsa
+Clásicos,Vegetariana,Tortilla de vegetales,Tortilla con vegetales de estación.,tortilla-vegetales
+Clásicos,Vegetariana,Torrejitas de verdura,Torrejitas caseras de verdura.,torrejitas-acelga
+Clásicos,Vegetariana,Torrejas de arroz,,
+Clásicos,Vegetariana,Arroz amarillo con queso,,
+Clásicos,Vegetariana,Fideos tricolor,,fideos-tricolor
+Clásicos,Vegetariana,Verduras al horno,,torre-vegetales
+Empanadas,,Empanadas criollas saladas,"Una docena, listas para hornear.",empanada-criolla-salada
+Empanadas,,Empanadas criollas dulces,"Una docena, listas para hornear.",empanada-criolla-dulce
+Empanadas,,Empanadas árabes,"Una docena, listas para hornear.",empanada-arabe
+Empanadas,,Empanadas de verdura,"Una docena, listas para hornear.",empanada-verdura
+Pizzas,,Pizza de muzzarella,"La de siempre, lista para hornear.",pizza-muzzarella
+Pizzas,,Pizza especial,"Con jamón y morrones, lista para hornear.",pizza-especial
+Pizzas,,Pizza napolitana,"Con rodajas de tomate, lista para hornear.",pizza-napolitana
+Postres,,Chocotorta,La clásica chocotorta casera.,
+Postres,,Tiramisú,Tiramisú casero.,
+Postres,,Cheesecake,Cheesecake casero.,
+Postres,,Ensalada de frutas,Frutas frescas de estación.,
+Postres,,Budín de pan,Budín de pan casero.,
